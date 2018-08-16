@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuntasirAnik/multiplayergame.git"
+    "url": "git+https://github.com/isty007/multiplayergame.git"
   },
   "author": "Ahmed Imtiaz Hossain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MuntasirAnik/multiplayergame/issues"
+    "url": "https://github.com/isty007/multiplayergame/issues"
   },
-  "homepage": "https://github.com/MuntasirAnik/multiplayergame#readme",
+  "homepage": "https://github.com/isty007/multiplayergame#readme",
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.1.1"
