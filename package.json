@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/isty007/multiplayergame.git"
   },
+<<<<<<< HEAD
   "author": "Ahmed Imtiaz hossain",
+=======
+  "author": "Ahmed Imtiaz Hossain",
+>>>>>>> 73b4c6f776e2b197d6f64eb5e8d301644751918f
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/isty007/multiplayergame/issues"
